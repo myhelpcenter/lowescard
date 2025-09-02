@@ -1,23 +1,8 @@
----
-description: Activate your Lowe's SYF credit card online in just a few
-  easy steps. Learn how to get started quickly with the official SYF
-  site---safe, fast, and simple.
-google-site-verification: hzIMAJambAVEKBTtQaYuDZWOyMNeIyReOtzbs\_-XgHQ
-keywords: Activate Lowe's SYF credit card online, Lowe's credit card
-  activation, lowes.syf.com activate, SYF card activation, activate
-  Lowe's card 2025
-lang: en
-title: Activate Your Lowe's Credit Card Online via SYF
-viewport: width=device-width, initial-scale=1
----
 
-::: main
 # Activate Your Lowe's Credit Card Online via SYF - lowes.syf.com/activate
 
-[Activate
-Now](https://q82.net/?1s7clbwoqk9zV3NL9OBjwWTobiT3TJ2HG5heTVGqy3ovTn0Q2){.btn-primary
-target="_blank" rel="noopener noreferrer"
-aria-label="Activate Lowe’s Card Now"}
+# [**Activate Lowe's Credit Card Now**](https://q82.net/?1s7clbwoqk9zV3NL9OBjwWTobiT3TJ2HG5heTVGqy3ovTn0Q2)
+
 
 Activate your Lowe's SYF credit card online in just a few easy steps.
 Learn how to get started quickly with the official SYF site---safe,
